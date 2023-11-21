@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on web designer.<br>👯 I’m looking to collaborate on web designer, Full Stack Developer.<br>🌱 I’m currently learning MERN stack development.<br>
+🔭 I’m currently working on web designe.<br>👯 I’m looking to collaborate on web designer, Full Stack Developer.<br>🌱 I’m currently learning MERN stack development.<br>
 
 
 ## 🌐 Socials:

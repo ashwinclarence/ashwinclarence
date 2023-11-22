@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web designe.<br>👯 I’m looking to collaborate on web designer, Full Stack Developer.<br>🌱 I’m currently learning MERN stack development.
+🔭 I’m currently working on web design.<br>👯 I’m looking to collaborate on web designer, Full Stack Developer.<br>🌱 I’m currently learning MERN stack development.
 
 
 ## 🌐 Socials:

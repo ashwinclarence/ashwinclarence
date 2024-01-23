@@ -1,6 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on web design.<br>👯 I’m looking to collaborate on MERN stack development.<br>🌱 I’m currently learning MERN stack development.
+<h1 align="center">Hi 👋, I'm ASHWIN CLARENCE</h1>
+<h3 align="center">A passionate MERN Stack developer</h3>
+<img align="right" alt="coding" width="400" src="https://my-portfolio-projects.netlify.app/static/media/Menatwork.6b1d31f46dcac109ea08.gif">
 
+<br/>
+<br/>
+<br/>
+
+- 🔭 I’m currently working as a **MERN Stack developer**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **HTML,CSS,Javascript,React,Express,Nord,MongoDB,bootstrap,firebase**
+
+- 📫 How to reach me **meashwinclarence@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/it_just_a_code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-clarence-9041882a0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22573792) 
